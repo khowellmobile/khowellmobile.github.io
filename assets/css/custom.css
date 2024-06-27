@@ -1,0 +1,24 @@
+.split {
+    width: 100%;
+    height: 40rem;
+
+    display: flex;
+}
+
+.left {
+    width: 50%;
+    height: 100%;
+    padding: 1rem;
+}
+
+.right {
+    width: 50%;
+    height: 100%;
+    padding: 1rem;
+}
+
+.centerFlex {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
